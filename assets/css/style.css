@@ -1,0 +1,210 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+html, body {
+  display: flex;
+  flex: 1;
+  height: 100%;
+  overflow: hidden;
+}
+
+.body-wrapper {
+  position: relative;
+  width: 90vw;
+  margin: 0 auto;
+  border-left: 1px solid #CCC;
+  border-right: 1px solid #CCC;
+  background: #EEEEEE;
+  padding-top: 7vw;
+  overflow-y: auto;
+}
+
+.filter-list {
+  position: fixed;
+  width: 90vw;
+  top: 0;
+  background: #DDD;
+  display: flex;
+  flex-direction: row;
+  padding: 1vw 3vw 1vw 1vw;
+  box-sizing: border-box;
+  box-shadow: 0 1vw 2vw rgba(0, 0, 0, 0.3);
+}
+/* .filter-list .department-list {
+  display: flex;
+  flex-direction: column;
+} */
+.department-list{
+  display: none;
+}
+.filter-list .department-list .department {
+  display: flex;
+  flex-shrink: 0;
+}
+.filter-list .department-list .department + .department {
+  margin-top: 1vw;
+  padding-top: 1vw;
+  border-top: 1px dashed #333;
+}
+.filter-list .dept-name {
+  font-size: 1vw;
+  font-weight: bold;
+  padding: 1vw;
+  background: gray;
+  color: white;
+  border-radius: 0.25vw;
+  flex: none;
+  height: 1vw;
+  width: 10vw;
+  margin-right: 1vw;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.filter-list .dept-name.active {
+  background: #333;
+}
+.filter-list a.btn {
+  text-decoration: none;
+  flex: none;
+  position: fixed;
+  font-size: 1vw;
+  display: block;
+  border-radius: 2px;
+  width: 2vw;
+  height: 2vw;
+  right: 6vw;
+  top: 1.25vw;
+  z-index: 999;
+  text-align: center;
+  line-height: 2vw;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  background: red;
+  color: white;
+}
+.filter-list a.btn:hover {
+  background: aqua;
+  color: #333;
+}
+.filter-list .subjects-wrapper {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+}
+.filter-list .subjects-wrapper .subject-name {
+  border: 1px solid #CCC;
+  font-size: 1vw;
+  margin-right: 0.5vw;
+  margin-bottom: 0.5vw;
+  padding: 1vw;
+  border-radius: 0.25vw;
+  width: 50px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.filter-list .subjects-wrapper .subject-name:hover {
+  cursor: pointer;
+  background: skyblue;
+  color: white;
+  overflow: visible; 
+  white-space: normal; 
+  width: auto;
+}
+.filter-list .subjects-wrapper .subject-name.active {
+  background: white;
+  color: blueviolet;
+  font-weight: bold;
+}
+.filter-list .subjects-wrapper .subject-name.active:hover {
+  cursor: default;
+}
+.filter-list .subjects-wrapper .more-less {
+  border: 1px solid transparent;
+  font-size: 1vw;
+  padding: 1vw;
+  font-weight: bold;
+}
+.filter-list.expanded {
+  padding-right: 3vw;
+  box-shadow: 0 0 2vw rgba(0, 0, 0, 0.3);
+  max-height: 100%;
+  overflow-y: auto;
+  flex-wrap: wrap;
+}
+
+.data-wrapper {
+  padding-left: 1vw;
+  padding-right: 1vw;
+}
+.data-wrapper .filtered-student {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+}
+.data-wrapper .filtered-student li {
+  background: white;
+  border: 1px solid #CCC;
+  /* display: block; */
+  float: left;
+  list-style-type: none;
+  padding: 1vw;
+  margin-right: 1vw;
+  margin-bottom: 1vw;
+}
+.data-wrapper .filtered-student li > span {
+  display: block;
+  line-height: 1.6;
+  font-weight: bold;
+  color: #444;
+}
+.data-wrapper .filtered-student li > span.name {
+  color: #333;
+  font-size: 1vw;
+  text-transform: uppercase;
+}
+.data-wrapper .filtered-student li > span .value {
+  font-weight: normal;
+}
+
+/* Stretch Goal # 2 Tooltip */
+/*
+
+.department-name-tooltip{
+    background:black;
+    position: absolute;
+    top: 0;
+    padding: .25vw .5vw;
+    border-radius: .25vw;
+    &:before{
+        content: '';
+        display: block;
+        position: absolute;
+        bottom: -.6vw;
+        left: calc(~"50% - .4vw");
+        width: 0; 
+        height: 0; 
+        border-left: .8vw solid transparent;
+        border-right: .8vw solid transparent;
+        border-top: .8vw solid black;
+    }
+    .tooltip-content{
+        color: white;
+        font-size: .7em;
+        line-height: 1.2;
+    }
+}
+*//*# sourceMappingURL=style.css.map */
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}

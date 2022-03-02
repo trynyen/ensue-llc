@@ -1,0 +1,388 @@
+{
+	"header": {
+		"lastSourceDataFetchedName": "CAM UNI Feed",
+		"lastSourceDataFetchedTime": "2018-06-07 15:26:05.0",
+		"messageLatencyStatus": "warning"
+	},
+	"body": {
+		"studentData": {
+			"students": [
+				{
+					"id": 13741,
+					"familyName": "1",
+					"givenName": "Jackie ",
+					"department": "Physics",
+					"subject": "Dynamics",
+					"mentor": {
+						"id": "87505",
+						"givenName": "Aaron",
+						"familyName": "Conway"
+					},
+					"dob": "1990-07-08",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13741,
+					"familyName": "2",
+					"givenName": "Jackie ",
+					"department": "Physics",
+					"subject": "Dynamics",
+					"mentor": {
+						"id": "87505",
+						"givenName": "Aaron",
+						"familyName": "Conway"
+					},
+					"dob": "1990-07-08",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13741,
+					"familyName": "3",
+					"givenName": "Jackie ",
+					"department": "Physics",
+					"subject": "Dynamics",
+					"mentor": {
+						"id": "87505",
+						"givenName": "Aaron",
+						"familyName": "Conway"
+					},
+					"dob": "1990-07-08",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13741,
+					"familyName": "4",
+					"givenName": "Jackie ",
+					"department": "Physics",
+					"subject": "Dynamics",
+					"mentor": {
+						"id": "87505",
+						"givenName": "Aaron",
+						"familyName": "Conway"
+					},
+					"dob": "1990-07-08",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13741,
+					"familyName": "5",
+					"givenName": "Jackie ",
+					"department": "Physics",
+					"subject": "Dynamics",
+					"mentor": {
+						"id": "87505",
+						"givenName": "Aaron",
+						"familyName": "Conway"
+					},
+					"dob": "1990-07-08",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13741,
+					"familyName": "6",
+					"givenName": "Jackie ",
+					"department": "Physics",
+					"subject": "Dynamics",
+					"mentor": {
+						"id": "87505",
+						"givenName": "Aaron",
+						"familyName": "Conway"
+					},
+					"dob": "1990-07-08",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13742,
+					"familyName": "Burns",
+					"givenName": "Marilyn ",
+					"department": "Physics",
+					"subject": "Work, energy and power",
+					"mentor": {
+						"id": "96870",
+						"givenName": "Dusty",
+						"familyName": "Jefferson"
+					},
+					"dob": "1991-11-21",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13743,
+					"familyName": "Hobbs",
+					"givenName": "Jeffrey ",
+					"department": "Computer Science",
+					"subject": "Software development",
+					"mentor": {
+						"id": "87505",
+						"givenName": "Aaron",
+						"familyName": "Conway"
+					},
+					"dob": "1993-10-15",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13744,
+					"familyName": "Battle",
+					"givenName": "Blake ",
+					"department": "Computer Science",
+					"subject": "Software development",
+					"mentor": {
+						"id": "96870",
+						"givenName": "Dusty",
+						"familyName": "Jefferson"
+					},
+					"dob": "1984-07-23",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13745,
+					"familyName": "Hahn",
+					"givenName": "Derrick ",
+					"department": "Computer Science",
+					"subject": "Algorithm design and problem-solving",
+					"mentor": {
+						"id": "26065",
+						"givenName": "Trent",
+						"familyName": "McMahon"
+					},
+					"dob": "1995-01-07",
+					"admitDate": "2016-11-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-11-03"
+				},
+				{
+					"id": 13746,
+					"familyName": "Collins",
+					"givenName": "Nancy",
+					"department": "Εlectrical & Electronics Engineering",
+					"subject": "Circuit Theory & Networks",
+					"mentor": {
+						"id": "96870",
+						"givenName": "Dusty",
+						"familyName": "Jefferson"
+					},
+					"dob": "1991-11-21",
+					"admitDate": "2016-11-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-11-03"
+				},
+				{
+					"id": 13747,
+					"familyName": "Avila",
+					"givenName": "Krista",
+					"department": "Εlectrical & Electronics Engineering",
+					"subject": "Mathematics",
+					"mentor": {
+						"id": "66825",
+						"givenName": "Destiny",
+						"familyName": "McIntosh"
+					},
+					"dob": "1993-10-15",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13748,
+					"familyName": "Leonard",
+					"givenName": "Crystal",
+					"department": "Physical Education",
+					"subject": "Anatomy and physiology",
+					"mentor": {
+						"id": "88205",
+						"givenName": "Sue",
+						"familyName": "Harding"
+					},
+					"dob": "1984-07-23",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13749,
+					"familyName": "Horn",
+					"givenName": "Tia",
+					"department": "Physical Education",
+					"subject": "Health, fitness and training",
+					"mentor": {
+						"id": "19770",
+						"givenName": "Kaylee",
+						"familyName": "Ballard"
+					},
+					"dob": "1984-07-23",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13750,
+					"familyName": "Burch",
+					"givenName": "Kathleen",
+					"department": "Physical Education",
+					"subject": "Skill acquisition and psychology",
+					"mentor": {
+						"id": "72152",
+						"givenName": "Cindy",
+						"familyName": "McConnell"
+					},
+					"dob": "1984-07-23",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13751,
+					"familyName": "O'neill",
+					"givenName": "Mitchell",
+					"department": "Architecture and History of Art",
+					"subject": "Art, religion and society",
+					"mentor": {
+						"id": "98415",
+						"givenName": "Rex",
+						"familyName": "McLeod"
+					},
+					"dob": "1984-07-23",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13752,
+					"familyName": "Hammond",
+					"givenName": "William",
+					"department": "Architecture and History of Art",
+					"subject": "The art and architecture of antiquity",
+					"mentor": {
+						"id": "22011",
+						"givenName": "Sam",
+						"familyName": "Meyer"
+					},
+					"dob": "1984-07-23",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13752,
+					"familyName": "Hammond",
+					"givenName": "William",
+					"department": "Architecture and History of Art",
+					"subject": "The art and architecture of antiquity",
+					"mentor": {
+						"id": "22011",
+						"givenName": "Sam",
+						"familyName": "Meyer"
+					},
+					"dob": "1984-07-23",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13752,
+					"familyName": "Hammond",
+					"givenName": "William",
+					"department": "Architecture and History of Art",
+					"subject": "The art and architecture of antiquity",
+					"mentor": {
+						"id": "22011",
+						"givenName": "Sam",
+						"familyName": "Meyer"
+					},
+					"dob": "1984-07-23",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13752,
+					"familyName": "Hammond",
+					"givenName": "William",
+					"department": "Architecture and History of Art",
+					"subject": "The art and architecture of antiquity",
+					"mentor": {
+						"id": "22011",
+						"givenName": "Sam",
+						"familyName": "Meyer"
+					},
+					"dob": "1984-07-23",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13752,
+					"familyName": "Hammond",
+					"givenName": "William",
+					"department": "Architecture and History of Art",
+					"subject": "The art and architecture of antiquity",
+					"mentor": {
+						"id": "22011",
+						"givenName": "Sam",
+						"familyName": "Meyer"
+					},
+					"dob": "1984-07-23",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13752,
+					"familyName": "Hammond",
+					"givenName": "William",
+					"department": "Architecture and History of Art",
+					"subject": "The art and architecture of antiquity",
+					"mentor": {
+						"id": "22011",
+						"givenName": "Sam",
+						"familyName": "Meyer"
+					},
+					"dob": "1984-07-23",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13752,
+					"familyName": "Hammond",
+					"givenName": "William",
+					"department": "Architecture and History of Art",
+					"subject": "The art and architecture of antiquity",
+					"mentor": {
+						"id": "22011",
+						"givenName": "Sam",
+						"familyName": "Meyer"
+					},
+					"dob": "1984-07-23",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13752,
+					"familyName": "Hammond",
+					"givenName": "William",
+					"department": "Architecture and History of Art",
+					"subject": "The art and architecture of antiquity",
+					"mentor": {
+						"id": "22011",
+						"givenName": "Sam",
+						"familyName": "Meyer"
+					},
+					"dob": "1984-07-23",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				},
+				{
+					"id": 13752,
+					"familyName": "Hammond",
+					"givenName": "William",
+					"department": "Architecture and History of Art",
+					"subject": "The art and architecture of antiquity",
+					"mentor": {
+						"id": "22011",
+						"givenName": "Sam",
+						"familyName": "Meyer"
+					},
+					"dob": "1984-07-23",
+					"admitDate": "2016-05-04 13:24:17-0500",
+					"anticipatedGraduationDate": "2018-05-03"
+				}
+			]
+		}
+	}
+}

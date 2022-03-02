@@ -1,0 +1,75 @@
+{
+    "university":"University of Cambridge",
+    "lastUpdatedTime":"2018-06-20 13:24:17-0500",
+    "departments": [
+      {
+        "name": "Architecture and History of Art",
+        "subjects": [
+          "Painting",
+          "Sculpture",
+          "Architecture",
+          "Drawing, printing, photography, collage and film",
+          "The art and architecture of antiquity",
+          "Art, religion and society",
+          "Art, society and politics"
+        ]
+      },
+      {
+        "name": "Physical Education",
+        "subjects": [
+          "Anatomy and physiology",
+          "Social, cultural and ethical influences",
+          "Skill acquisition and psychology",
+          "Health, fitness and training"
+        ]
+      },
+      {
+        "name": "Physics",
+        "subjects": [
+          "Physical quantities and units",
+          "Measurement techniques",
+          "Dynamics",
+          "Forces, density and pressure",
+          "Work, energy and power",
+          "Deformation of solids",
+          "Waves",
+          "Superposition",
+          "Electric fields",
+          "Current of electricity",
+          "D.C. circuits",
+          "Particle and nuclear physics"
+        ]
+      },
+      {
+        "name": "Εlectrical & Electronics Engineering",
+        "subjects": [
+            "Circuit Theory & Networks",
+            "Electrical & Electronic Measurement",
+            "Data Structure & Algorithms",
+            "Materials Science",
+            "Mathematics",
+            "Numerical Methods & Programming",
+            "Computer Organization & Architecture",
+            "Technical Report writing"
+        ]
+      },
+      {
+        "name": "Computer Science",
+        "subjects": [
+          "Information representation",
+          "Communication and Internet technologies", 
+          "Hardware",
+          "Processor fundamentals",
+          "System software",
+          "Security, privacy and data integrity",
+          "Ethics and ownership",
+          "Database and data modelling",
+          "Algorithm design and problem-solving",
+          "Data representation",
+          "Programming",
+          "Software development",
+          "Monitoring and control systems"
+        ]
+      }
+    ]
+}
